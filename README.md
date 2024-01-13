@@ -1,4 +1,7 @@
 # React + Vite
+React Shop-Homepage
+
+This is Task 3 Shop-Homepage Parctice
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
